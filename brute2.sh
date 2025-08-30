@@ -59,3 +59,5 @@ else
     echo "❌ No gateway with internet access found."
 fi
 
+#Need a method to attach all found gateways to the 3rd script
+
