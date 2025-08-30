@@ -60,4 +60,5 @@ else
 fi
 
 #Need a method to attach all found gateways to the 3rd script
+#Also need direct integration 
 
